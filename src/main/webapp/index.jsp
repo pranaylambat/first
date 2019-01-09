@@ -10,7 +10,7 @@
      <h1 class="text-center">Welcome to eew technologies</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">My job is done with jenkins with amit mehar now we are going to bang lore</h1>
+      <h1 class="text-center">My job is done with jenkins with NAGESH SHENDE , now we are going to ganga jamuna </h1>
       <h2 class="text-center">Now you are with AMIT MEHAR</h2>
       <h3 class="text-center"> I LOVE YOU All</h3>
   </div>
