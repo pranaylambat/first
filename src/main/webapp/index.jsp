@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">Nagesh shende Distracted</h1>
       <h1 class="text-center">devops project 2 run successfully</h1>
-      <h2 class="text-center">Now you are with AMIT MEHAR</h2>
+      <h2 class="text-center">Now you are with Pranay Lambat</h2>
       <h3 class="text-center"> I LOVE YOU All</h3>
   </div>
 </body>
