@@ -13,7 +13,7 @@
       <h1 class="text-center">All Friends are request to attend Aarti programme</h1>
       <h1 class="text-center">Ganpati Bappa Morya</h1>
 <!--       <h1 class="text-center">Hindustan Jindabad</h1> -->
-      <h2 class="text-center">Now you are with Nagesh Shende</h2>
+      <h2 class="text-center">Now you are with Amit Mehar</h2>
       <h3 class="text-center"> I LOVE YOU All</h3>
   </div>
 </body>
