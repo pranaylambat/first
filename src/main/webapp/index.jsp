@@ -13,7 +13,7 @@
       <h1 class="text-center">Nagesh shende absent</h1>
       <h1 class="text-center">Happy Janmashtami</h1>
 <!--       <h1 class="text-center">Hindustan Jindabad</h1> -->
-      <h2 class="text-center">Now you are with Pranay Lambat</h2>
+      <h2 class="text-center">Now you are with Nagesh Shende</h2>
       <h3 class="text-center"> I LOVE YOU All</h3>
   </div>
 </body>
