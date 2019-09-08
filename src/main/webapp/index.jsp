@@ -10,8 +10,8 @@
      <h1 class="text-center">Welcome to eew technologies</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">Nagesh shende absent</h1>
-      <h1 class="text-center">Happy Janmashtami</h1>
+      <h1 class="text-center">All Friends are request to attend Aarti programme</h1>
+      <h1 class="text-center">Ganpati Bappa Morya</h1>
 <!--       <h1 class="text-center">Hindustan Jindabad</h1> -->
       <h2 class="text-center">Now you are with Nagesh Shende</h2>
       <h3 class="text-center"> I LOVE YOU All</h3>
