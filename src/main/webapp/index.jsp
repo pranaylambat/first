@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">HELLO FRIENDS</h1>
       <h1 class="text-center">WELCOME</h1>
-<!--       <h1 class="text-center">Hindustan Jindabad</h1> -->
+      <h1 class="text-center">Hindustan Jindabad</h1> 
       <h2 class="text-center">Now you are with AMIT MEHAR</h2>
       <h3 class="text-center">HAVE A NICE DAY</h3>
   </div>
